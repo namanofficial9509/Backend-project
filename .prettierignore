@@ -1,0 +1,9 @@
+# kis kis file ko prettier touch na kre
+/.vscode
+/node_modules
+./dist
+
+
+*.env
+.env
+.env*
